@@ -1,9 +1,10 @@
-<?php
+<?php 
 
 namespace Manager;
 
-use \W\Manager\Manager;
+use \W\Manager\Manager; 
 
-class ContactsManager extends Manager
-{	
+Class ContactsManager extends Manager 
+{
+	
 }
